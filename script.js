@@ -1,6 +1,6 @@
 // Login
-const USERNAME = "test";
-const PASSWORD = "jjj123098";
+const USERNAME = "sonyyy";
+const PASSWORD = "2025420";
 function login(){
     const name = document.getElementById("username").value.trim().toLowerCase();
     const pass = document.getElementById("password").value.trim();
@@ -91,4 +91,5 @@ function startHearts() {
 
 // بدء القلوب عند تحميل الصفحة
 window.addEventListener('DOMContentLoaded', startHearts);
+
 
